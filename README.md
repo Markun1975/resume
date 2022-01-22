@@ -1,1 +1,0 @@
-# masakisugita's resume
