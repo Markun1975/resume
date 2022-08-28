@@ -12,23 +12,53 @@
 
 - 基礎スキル
     - Swift/Objective-c でのiOSアプリケーション開発
-    - MVC、MVP、MVVMを利用した開発
     - Objective-CからSwiftへのリファクタリング
     - Firebaseを利用した開発
     - TypeScriptを利用したバックエンド開発
-    - クリーンアーキテクチャを利用した開発
-    - DDD(ドメイン駆動設計)を利用した開発
     - ER図を利用したデータモデル図作成
     - 基本設計、詳細設計の作成
         - 業務フロー
         - システム機能一覧表
         - テーブル定義
         - ER図
-    - Figma
+- 経験アーキテクチャ
+ - Clean Architecture
+ - DDD(ドメイン駆動設計)
+ - MVC
+ - MVVM
+ 
+- 経験言語
+ - Swift&Objective-c
+  - UIKit
+  - CoreData
+  - CoreAudio
+  - CoreLocation
+  - AVfoundation
+  - Mapkit
+- 経験フレームワーク
+ - RxSwift
+ - SnapKit
 
+- 経験フレームワーク
+ - ReproSDK
+ - Firebase
+ - Firebase Analytics
+ - Google Analytics
+ - TwitterFramework
+ - Amplify
+ - Cognito
+ - Lambda
+    
+- 使用ツール
+    - Github
+    - Gitlab
+    - Figma
+    - slack
+    
 - トレンドスキル
     - Python（Django）を使ったWebサイト開発
     - AWS Amplifyを使った、サーバーレスなバックエンド開発
+    
 
 ## 保有ソフトスキル
 
