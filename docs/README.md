@@ -21,33 +21,38 @@
         - システム機能一覧表
         - テーブル定義
         - ER図
+
 - 経験アーキテクチャ
- - Clean Architecture
- - DDD(ドメイン駆動設計)
- - MVC
- - MVVM
+  - Clean Architecture
+  - DDD(ドメイン駆動設計)
+  - MVC
+  - MVVM
  
 - 経験言語
- - Swift&Objective-c
-  - UIKit
-  - CoreData
-  - CoreAudio
-  - CoreLocation
-  - AVfoundation
-  - Mapkit
-- 経験フレームワーク
- - RxSwift
- - SnapKit
+    - Swift&Objective-c
+        - UIKit
+        - CoreData
+        - CoreAudio
+        - CoreLocation
+        - AVfoundation
+        - Mapkit
+        - 経験フレームワーク
+            - RxSwift
+            - SnapKit
+
+    - TypeScript
+    
+    - Python
 
 - 経験フレームワーク
- - ReproSDK
- - Firebase
- - Firebase Analytics
- - Google Analytics
- - TwitterFramework
- - Amplify
- - Cognito
- - Lambda
+    - ReproSDK
+    - Firebase
+    - Firebase Analytics
+    - Google Analytics
+    - TwitterFramework
+    - Amplify
+    - Cognito
+    - Lambda
     
 - 使用ツール
     - Github
